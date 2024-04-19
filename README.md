@@ -1,4 +1,4 @@
-# ml-lulc-hc-opt
+# ML-landCoverClassification-hcluster
 Estimation of land cover classification using Hierarchical clustering approach with optical satellite
 
 Hierarchical clustering is a common technique used in unsupervised learning. Because hierarchical clustering is a process that requires considerable machine power, we recommend using GPUs to process the data. Therefore, this chapter assumes that the analysis is performed using Google Colab and also narrows the scope of the analysis.
