@@ -46,13 +46,19 @@ The validation data is rearranged into the following classification classes
 11: Bamboo forest (Bamboo) → Forest
 12: Solar panel → Artificial
 
--   LC_N42E144.tif
--   LC_N43E144.tif  
+[LC_N42E144.tif]
+
 ![image](https://github.com/jutak0228/ml-lulc-hc-opt/assets/159540763/7b53b139-6a2d-495a-858b-02c2e0a6973c)
+
+[LC_N43E144.tif]
+
 ![image](https://github.com/jutak0228/ml-lulc-hc-opt/assets/159540763/7ead089e-f691-44e7-8df6-34949ca7ed4d)
 
-- val_im.tif
+
+[val_im.tif]
+
 ![image](https://github.com/jutak0228/ml-lulc-hc-opt/assets/159540763/46615d02-ba7c-4078-92bc-bb108baf998c)
 
-- cut_val_im.tif
+[cut_val_im.tif]
+
 ![image](https://github.com/jutak0228/ml-lulc-hc-opt/assets/159540763/c2ac1afe-4120-4fd8-9e1b-e753a8061f6a)
