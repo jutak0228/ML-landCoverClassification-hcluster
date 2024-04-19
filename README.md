@@ -20,9 +20,13 @@ Approach is below:
 
 ## Classification
 Classification by hierarchical clustering using the features. This time, we will classify the data into 5 classes. This time we will use the cluster module of scipy. Please refer to the official documentation for details.
+
 [dedrogram]
+
 ![image](https://github.com/jutak0228/ml-lulc-hc-opt/assets/159540763/c71f68bb-8753-4a22-ac79-090819d1b6dc)
+
 [Visualization]
+
 ![image](https://github.com/jutak0228/ml-lulc-hc-opt/assets/159540763/0debefd0-07f4-48c2-923d-237dd0b54691)
 
 ## Validation
@@ -43,7 +47,7 @@ The validation data is rearranged into the following classification classes
 12: Solar panel → Artificial
 
 -   LC_N42E144.tif
--   LC_N43E144.tif
+-   LC_N43E144.tif  
 ![image](https://github.com/jutak0228/ml-lulc-hc-opt/assets/159540763/7b53b139-6a2d-495a-858b-02c2e0a6973c)
 ![image](https://github.com/jutak0228/ml-lulc-hc-opt/assets/159540763/7ead089e-f691-44e7-8df6-34949ca7ed4d)
 
